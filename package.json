@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "chokidar": "2.0.0",
-    "colors": "1.1.2",
+    "colors": "1.4.0",
     "detective": "5.0.2",
     "detective-es6": "1.2.0",
     "glob": "7.1.0",
